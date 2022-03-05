@@ -19,3 +19,12 @@ unidade07 - adicionando links
 
 unidade08 - adicionando listas mais avançadas
 
+unidade09 - novos elementos estruturais do HTML5 - main, header, nav, article, section, aside e footer
+
+unidade10 - elementos semânticos - small, address e mark
+
+unidade11 - projeto de atualização de divs para notação HTML5 mais nova
+
+unidade12 - tabelas
+
+unidade13 - formulário
