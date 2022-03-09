@@ -1,6 +1,13 @@
 # html5
 Estudo de HTML5
 
+<br>
+
+<p align="center">
+    <img src="imagens/html5.png" alt="HTML5 logo" height="200">
+</p>
+
+<br>
 Com base no [Curso Desenvolvedor Web Completo + 10 projetos](https://www.udemy.com/course/curso-desenvolvedor-web-completo/learn/lecture/7980550?start=0#overview) do professor André Fontenelli, Curso I que trata de HTML5: 
 
 unidade01 - apresentação do curso, configuração da IDE, histórico do HTML5 - sem exercícios
